@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+.tochka {
+    box-shadow: 12px 12px 2px teal;
+}
+img {
+    margin-bottom: 10px;
+}
+.text-big:hover {
+    color: gold;
+    font-size: 20px;
+
+}
+.obana:hover {
+    color: gold;
+}
+.oka:hover {
+    color: gold;
+}
